@@ -2,7 +2,7 @@ import React from 'react'
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Home from "./component/Home";
 import BMR from "./component/BMR";
-import BMI from "./component/BMI";
+import BMI from "./component/Bmi";
 import Car from "./component/Car";
 
 
